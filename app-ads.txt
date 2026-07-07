@@ -695,3 +695,11 @@ conversantmedia.com, 100269, RESELLER, 03113cd04947736d
 spinx.biz, 1373698890, RESELLER
 rubiconproject.com, 27714, RESELLER, 0bfd66d529a55807
 orbrx.ai, 8000869124, RESELLER
+pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+odeeo.io, 118848844, RESELLER, 36cfd73091d5c3fc
+triplelift.com, 14798, RESELLER, 6c33edb13117fd86
+smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
+bluexad.ai, 1996418805747683328, RESELLER
+video.unrulymedia.com, 905340553, RESELLER
+openx.com, 563905670, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 24084, RESELLER, 0bfd66d529a55807
