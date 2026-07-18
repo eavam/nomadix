@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Nomadix IX</title>
+  <rect width="32" height="32" rx="5" fill="#2455FF"/>
+  <path d="M8.5 7V25" stroke="#F3EFE5" stroke-width="4.5" stroke-linecap="square"/>
+  <path d="M16.5 7L25.5 25M25.5 7L16.5 25" stroke="#F3EFE5" stroke-width="4" stroke-linecap="square"/>
+</svg>
